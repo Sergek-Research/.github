@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sergek-research-logo.png" alt="Sergek Research logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/Sergek-Research/.github/main/assets/sergek-research-logo.png" alt="Sergek Research logo" width="200"/>
 </p>
 
 <h1 align="center">Sergek Research</h1>
